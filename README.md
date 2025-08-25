@@ -1,4 +1,4 @@
-## 🛡️ Microsoft Applied Skills: Get started with identities and access using Microsoft Entra
+## Microsoft Applied Skills: Get started with identities and access using Microsoft Entra
 
 🔗 [View my certification on Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/alpha-dl0/563D9342E38FE8E4?sharingId=studentamb_275602)  
 
